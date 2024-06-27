@@ -1,0 +1,14 @@
+/Users/vparama/local/projects/AsyncPageable/AsyncPageable/bin/Debug/net8.0/AsyncPageable
+/Users/vparama/local/projects/AsyncPageable/AsyncPageable/bin/Debug/net8.0/AsyncPageable.deps.json
+/Users/vparama/local/projects/AsyncPageable/AsyncPageable/bin/Debug/net8.0/AsyncPageable.runtimeconfig.json
+/Users/vparama/local/projects/AsyncPageable/AsyncPageable/bin/Debug/net8.0/AsyncPageable.dll
+/Users/vparama/local/projects/AsyncPageable/AsyncPageable/bin/Debug/net8.0/AsyncPageable.pdb
+/Users/vparama/local/projects/AsyncPageable/AsyncPageable/obj/Debug/net8.0/AsyncPageable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vparama/local/projects/AsyncPageable/AsyncPageable/obj/Debug/net8.0/AsyncPageable.AssemblyInfoInputs.cache
+/Users/vparama/local/projects/AsyncPageable/AsyncPageable/obj/Debug/net8.0/AsyncPageable.AssemblyInfo.cs
+/Users/vparama/local/projects/AsyncPageable/AsyncPageable/obj/Debug/net8.0/AsyncPageable.csproj.CoreCompileInputs.cache
+/Users/vparama/local/projects/AsyncPageable/AsyncPageable/obj/Debug/net8.0/AsyncPageable.dll
+/Users/vparama/local/projects/AsyncPageable/AsyncPageable/obj/Debug/net8.0/refint/AsyncPageable.dll
+/Users/vparama/local/projects/AsyncPageable/AsyncPageable/obj/Debug/net8.0/AsyncPageable.pdb
+/Users/vparama/local/projects/AsyncPageable/AsyncPageable/obj/Debug/net8.0/AsyncPageable.genruntimeconfig.cache
+/Users/vparama/local/projects/AsyncPageable/AsyncPageable/obj/Debug/net8.0/ref/AsyncPageable.dll
